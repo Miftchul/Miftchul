@@ -14,8 +14,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Miftchul&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Miftchul&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Miftchul&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" /> <img src="https://nirzak-streak-stats.vercel.app/?user=Miftchul&theme=radical&hide_border=false" alt="GitHub Streak" height="180" /> 
     <div style="display: flex; align-items: center; justify-content: center;">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNuaHB5cmtyNmduNnV1MTNwazA0aTJlemw3NXg0eW0yczV3YnR3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding Animation" height="150" style="margin-right: 10px;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftchul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
