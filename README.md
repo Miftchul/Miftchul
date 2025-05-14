@@ -1,8 +1,17 @@
-<h2 align="left">Hi 👋! My name is Agus Miftachul and I'm a Students, from UBHINUS in Malang, Indonesian</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning!;Feel+free+to+explore+my+repos!" alt="Typing SVG" />
+</div>
+
+[![Dark Mode](https://img.shields.io/badge/Mode-Dark%20Mode-black?style=for-the-badge)](https://github.com/settings/appearance) 
+<div align="center" style="background: url('https://via.placeholder.com/1200x400'); padding: 20px; border-radius: 10px;">
+  <h2 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=My+name+is:+Agus+Miftachul;I+am+Student:+UBHINUS;From:+Malang,+Indonesian" alt="Combined Animation" />
+  </h2>
+</div>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpvcnprbDB5NDNjMHlsMnRreGhpMnI0bXowYjl0N2t5ZW04dmNxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif"  /> 
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt2OXRtM3A2cmMxbzU1ODdibm11eWc0MXR3OHRpcDhoZ2NnYm5nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
 
@@ -29,8 +38,7 @@
 
 <div align="left">
   <h1><b>🔝 Top Contributed Repo</b></h1>
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=Miftchul&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Miftchul&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="left">
