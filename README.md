@@ -22,26 +22,37 @@
     </div>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Miftchul&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+<div align="left">
+  <h1><b>🏆 GitHub Trophies</b></h1>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Miftchul&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="left">
+  <h1><b>🔝 Top Contributed Repo</b></h1>
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=Miftchul&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Miftchul&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+<div align="left">
+  <h1><b>✍️ Random Dev Quote</b></h1>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Agusmiftachulhuda)
-
-
-<br clear="both">
+<div align="left">
+  <h1><b>🎵 Now Playing on Spotify</b></h1>
+  
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Agusmiftachulhuda)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Miftchul&icon=2&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+<div align="left">
+  <h1><b>💰 You can help me by Donating</b></h1>
+  
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Agus-Miftachul) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miftachul)
+</div>
+
 
 <img src="https://raw.githubusercontent.com/Miftchul/Miftchul/output/snake.svg" alt="Snake animation" />
 
