@@ -22,13 +22,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_miftachul__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agus-miftachul-huda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Agusmiftachulhuda) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MiftTech) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.miftachul__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Miftachul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCEUw5ovusb-Q6lH9wVlV-Kg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Miftchul&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Miftchul&theme=one_dark_pro&hide_border=false)<br/>
-<div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNuaHB5cmtyNmduNnV1MTNwazA0aTJlemw3NXg0eW0yczV3YnR3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding Animation" height="150" style="margin-right: 10px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftchul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+![](https://github-readme-stats.vercel.app/api?username=Miftchul&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Miftchul&theme=one_dark_pro&hide_border=false) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftchul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNuaHB5cmtyNmduNnV1MTNwazA0aTJlemw3NXg0eW0yczV3YnR3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding Animation" height="150" style="margin-right: 10px;" />
         <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47rnzp0kruewck2cwf8xiemci7pt3ixux6mwfndc6n&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding Animation" height="150" style="margin-left: 10px;" />
-    </div>
-</div>
 
 <div align="left">
   <h1><b>🏆 GitHub Trophies</b></h1>
