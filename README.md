@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpvcnprbDB5NDNjMHlsMnRreGhpMnI0bXowYjl0N2t5ZW04dmNxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif"  /> 
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt2OXRtM3A2cmMxbzU1ODdibm11eWc0MXR3OHRpcDhoZ2NnYm5nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
+  <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpvcnprbDB5NDNjMHlsMnRreGhpMnI0bXowYjl0N2t5ZW04dmNxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif"  /> 
+  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt2OXRtM3A2cmMxbzU1ODdibm11eWc0MXR3OHRpcDhoZ2NnYm5nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
 
 # 💻 Tech Stack:
