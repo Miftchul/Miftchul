@@ -49,6 +49,24 @@
   <h1><b>💰 You can help me by Donating</b></h1>
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Agus-Miftachul) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miftachul)
+
+  <p style="margin-top: 20px;"><b>Or via Crypto Wallet:</b></p>
+  <div style="margin-top:5px;">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
+    <code>bc1ppc7mazuq3s6uh2mlzqdtvgnmvh3eelx68qcus40fgkpdasfwt0ns95a83v</code>
+  </div>
+  <div style="margin-top:5px;">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Badge"/>
+    <code>0xfbc60F71EA3857b2B672D3EA81fD76454E4194aA</code>
+  </div>
+  <div style="margin-top:5px;">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Badge"/>
+    <code>FRuMTiWbiDiC8j36jafKypMCXKx6bNbX9xz1ZSqMx2VS</code>
+  </div>
+  <div style="margin-top:5px;">
+    <img src="https://img.shields.io/badge/BNB-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="BNB Badge"/>
+    <code>0xfbc60F71EA3857b2B672D3EA81fD76454E4194aA</code>
+  </div>
 </div>
 
 
