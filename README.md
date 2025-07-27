@@ -60,44 +60,7 @@
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Agus-Miftachul) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miftachul)
 
-  <p style="margin-top: 20px;"><b>Or via Crypto Wallet:</b></p>
-
-<table style="border-collapse: collapse; width: auto;">
-  <tbody>
-    <tr style="vertical-align: middle;">
-      <td style="padding: 5px 10px 5px 0;">
-        <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
-      </td>
-      <td style="padding: 5px 0;">
-        <code>bc1ppc7mazuq3s6uh2mlzqdtvgnmvh3eelx68qcus40fgkpdasfwt0ns95a83v</code>
-      </td>
-    </tr>
-    <tr style="vertical-align: middle;">
-      <td style="padding: 5px 10px 5px 0;">
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Badge"/>
-      </td>
-      <td style="padding: 5px 0;">
-        <code>0xfbc60F71EA3857b2B672D3EA81fD76454E4194aA</code>
-      </td>
-    </tr>
-    <tr style="vertical-align: middle;">
-      <td style="padding: 5px 10px 5px 0;">
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Badge"/>
-      </td>
-      <td style="padding: 5px 0;">
-        <code>FRuMTiWbiDiC8j36jafKypMCXKx6bNbX9xz1ZSqMx2VS</code>
-      </td>
-    </tr>
-    <tr style="vertical-align: middle;">
-      <td style="padding: 5px 10px 5px 0;">
-        <img src="https://img.shields.io/badge/BNB-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="BNB Badge"/>
-      </td>
-      <td style="padding: 5px 0;">
-        <code>0xfbc60F71EA3857b2B672D3EA81fD76454E4194aA</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  
 </div>
 
 
