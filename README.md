@@ -37,12 +37,4 @@ Student from Indonesia who enjoys learning, building projects, and exploring tec
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miftchul&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftchul&layout=compact&theme=tokyonight" />
-
----
-
 <img src="https://raw.githubusercontent.com/Miftchul/Miftchul/output/snake.svg" alt="snake animation" />
